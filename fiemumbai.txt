@@ -1,6 +1,2 @@
-hi
-i am at mumbai
-hello
-i m in mumbai learning git
-my new record mumbai
-test mumbaigit status
+my file deleted i m thinking
+not sure
